@@ -1,7 +1,7 @@
 # These two functions are used to create an
 # object that stores a "matrix" and caches its inverse.
 
-# This function creates a "matrix" object that can cache its inverse.
+# The following function creates a "matrix" object that can cache its inverse.
 # It creates a "vector", which is really a list containing a function 
 # to set and get a matrix and its inverse
 
